@@ -1,0 +1,140 @@
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792353783873}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792354115272}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354115272}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792354119121}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354119121}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792354119124}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354119124}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792354129545}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354129545}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354132208}
+{"level":"debug","message":"[vite] hot updated: /src/components/Header.tsx","timestamp":1792354132208}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354132208}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354132208}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354132209}
+{"level":"debug","message":"[vite] hot updated: /src/components/WrongNetwork.tsx","timestamp":1792354132209}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxButton.tsx","timestamp":1792354133460}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354133460}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354154760}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354154760}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354158321}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354158321}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354175015}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354175015}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354191860}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354191860}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354193137}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354193137}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354205478}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354205478}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354217611}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354217611}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354242086}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354242087}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354254682}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354254682}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354279767}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354279767}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxButton.tsx","timestamp":1792354304857}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354304857}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354330583}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354330584}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354347559}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354347559}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354351710}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354351710}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354357820}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354357820}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354370906}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354370906}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354370909}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354370909}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354387597}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354387597}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354387600}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354387600}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354397120}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354397120}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354397123}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354397123}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354430823}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354430823}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354432244}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354432244}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354434939}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354434939}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354435316}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354435316}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354450495}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354450495}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354455899}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354455899}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354463761}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354463761}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354464393}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354464393}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354518158}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354518158}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354518644}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354518644}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792354531165}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354531165}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792354532758}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354532758}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354544380}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354544381}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354547386}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354547386}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354573197}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354573197}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354577348}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354577348}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354591519}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354591519}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354591522}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354591522}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354617113}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354617113}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354617389}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792354617389}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354632596}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354632596}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CreatePage.tsx","timestamp":1792354632599}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354632599}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354647493}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354647493}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792354647496}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792354647496}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792383919914}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792383919914}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792383938857}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792383938857}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792383948177}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792383948177}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792383948178}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792383948178}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792383964458}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792383964458}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792383966384}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792383966384}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792383970399}
+{"level":"debug","message":"[vite] hot updated: /src/pages/HomePage.tsx","timestamp":1792383970399}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792383977058}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MilestonePage.tsx","timestamp":1792383977058}
+{"level":"debug","message":"[vite] connected.","timestamp":1792383984944}
+{"level":"debug","message":"[vite] connected.","timestamp":1792383985635}
+{"level":"error","message":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)","timestamp":1792384239410,"stack":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)"}
+{"level":"error","message":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)","timestamp":1792384316640,"stack":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)"}
+{"level":"error","message":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)","timestamp":1792440518805,"stack":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)"}
+{"level":"error","message":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)","timestamp":1792440760236,"stack":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)"}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792442405850}
+{"level":"debug","message":"[vite] connected.","timestamp":1792442420517}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792442430232}
+{"level":"debug","message":"[vite] connected.","timestamp":1792442434575}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792442841592}
+{"level":"debug","message":"[vite] connected.","timestamp":1792442852501}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792443722918}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792445529063}
+{"level":"error","message":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)","timestamp":1792512018498,"stack":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)"}
+{"level":"error","message":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)","timestamp":1792512018836,"stack":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)"}
+{"level":"error","message":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)","timestamp":1792513006401,"stack":"RpcRequestError: RPC Request failed.\n\nURL: https://rpc.testnet.arc.io\nRequest body: {\"method\":\"eth_getLogs\",\"params\":[{\"address\":\"0x6cd751bbc2d157ce0d8126636aa31cd937371049\",\"topics\":[\"0x9aabea37caf69c417ff9470e0570d6e3fa2d0f1dc62cb74a2b5a8e6d73897114\"],\"fromBlock\":\"0x40bf9da\",\"toBlock\":\"0x40c20ea\"}]}\n\nDetails: requested range too large\nVersion: viem@2.57.5\n    at request (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-GEGLUUA5.js?v=ed645da4:4810:17)\n    at async withRetry.delay.count.count (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:12193:16)\n    at async attemptRetry (https://ibgmpkp9ul1w1b4yizcby.preview.studio.arc.io/node_modules/.vite/deps/chunk-5RG65Y6H.js?v=ed645da4:1653:22)"}
